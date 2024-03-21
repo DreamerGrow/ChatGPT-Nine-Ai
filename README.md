@@ -3,9 +3,9 @@
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
 
-演示站： [前端](https://ai.jiangly.com/)
+演示站： [前端](https://nineai.chat/)
 
-演示站： [后端](https://ai-admin.jiangly.com/)
+演示站： [后端](https://ai-admin.nineai.chat/)
 
 账号：admin 密码：123456
 
